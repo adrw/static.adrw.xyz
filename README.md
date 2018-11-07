@@ -1,1 +1,1 @@
-# adrw.xyz
+# Static Version of adrw.xyz
